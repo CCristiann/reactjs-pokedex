@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/src/assets/pokeball.png" width="40" height="40">
+    <img src="/src/assets/pokeball.png" width="50" height="50">
     <h1>Pokedex</h1>
 </div>
 
