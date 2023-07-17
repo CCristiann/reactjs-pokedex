@@ -7,7 +7,7 @@
 
 Pokedex
 
-👉 **Live Demo**: [Live Demo](https://pokedex-ruddy-nine-14.vercel.app)
+👉 **Live Demo**: [Live Demo](https://pokedex-ccristiann.vercel.app)
 
 \
 **Build with:** \
